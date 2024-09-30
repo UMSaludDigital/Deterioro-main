@@ -1,0 +1,23 @@
+{
+    "development": {
+      "username": "root",
+      "password": "deterioro",
+      "database": "postgres",
+      "host": "localhost",
+      "dialect": "postgres"
+    },
+    "test": {
+      "username": "root",
+      "password": "deterioro",
+      "database": "postgres",
+      "host": "localhost",
+      "dialect": "postgres"
+    },
+    "production": {
+      "username": "root",
+      "password": "deterioro",
+      "database": "postgres",
+      "host": "localhost",
+      "dialect": "postgres"
+    }
+  }
